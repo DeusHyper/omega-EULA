@@ -1,9 +1,10 @@
 End-User License Agreement (EULA) of OMEGA's Hometown
 
 This EULA creates a legal agreement between you ("You", "Player", "User", “End-User” or Licensee) and OMEGA's Tracklab, regarding the Software that your about to access, including without limitation 
-(a) all of the contents of the files in any media with which this Agreement is provided, 
-(b) all successor upgrades, revisions, patches, enhancements, fixes modifications, copies, additions or maintenance releases of the Software, if any, including new builds of the same version or release, licensed to you by us (collectively, the "Updates"), and 
-(c) related user documentation and explanatory materials or files provided in written, "online" or electronic form (the "Documentation").
+    (a) all of the contents of the files in any media with which this Agreement is provided, 
+    (b) all successor upgrades, revisions, patches, enhancements, fixes modifications, copies, additions or maintenance releases of the Software, if any, including new builds of the same version or release, 
+        licensed to you by us (collectively, the "Updates"), and 
+    (c) related user documentation and explanatory materials or files provided in written, "online" or electronic form (the "Documentation").
 
 1. Definitions
 
@@ -13,8 +14,7 @@ This EULA creates a legal agreement between you ("You", "Player", "User", “End
 
 2. Acceptance of Terms
 
-    By installing, accessing, or using the OMEGA's Hometown software or associated content, you
-    acknowledge and agree to the terms and conditions outlined in this EULA.
+    By installing, accessing, or using the OMEGA's Hometown software or associated content, you acknowledge and agree to the terms and conditions outlined in this EULA.
 
 3. License Grant
 
